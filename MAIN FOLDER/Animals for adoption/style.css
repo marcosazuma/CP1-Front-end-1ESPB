@@ -113,7 +113,7 @@ a.adopt_btn:hover {
 
 .anml_text_bg{
     width: 100vw;
-    height: 250px;
+    height: 280px;
     background-color: #5F377B;
     position: absolute;
     margin-top:-30px;
@@ -138,7 +138,7 @@ a.adopt_btn:hover {
     text-align: justify;
     text-align-last: left;
     margin-left: 70px;
-    width: 91%;
+    width: 80%;
     margin-top: -50px;
     position:absolute;
 }
@@ -169,7 +169,7 @@ a.adopt_btn:hover {
     /*AJUSTE DE MARGEM PARA O TEXTO*/
     text-align: justify;
     text-align-last: left;
-    width: 1700px;
+    width: 80%;
     margin-top: 200px;
     margin-left: 70px;
     position:absolute;
@@ -196,7 +196,6 @@ a.adopt_btn:hover {
 .anml_adoption_fmt {
     margin-left: 50px;
     margin-top: -30px;
-
 }
 
 .nav_footer {
@@ -282,9 +281,6 @@ a.adopt_btn:hover {
 }
 
 h1{
-    color: #5f377b;
-}
-h2{
     color: #5f377b;
 }
 body{
